@@ -57,13 +57,13 @@
   // Edit Sesuai Kemauanmu
   global.mess = {
   admin: '_Ellzy ganteng?_',
-  botAdmin: '_Yo'i 🤗_',
+  botAdmin: '_iya 🤗_',
   owner: '_Lu Bukan Owner Gw 😠_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  wait: '_Sabar Njeng ..._',
+  done: '_Done Anjime 🤗_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
