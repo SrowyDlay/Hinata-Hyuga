@@ -19,7 +19,7 @@
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
-  global.limitCount = 70 // 70 Dah Pas Banh
+  global.limitCount = 7000000 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
   // Other
@@ -27,14 +27,14 @@
   global.owner = ['6285788029733','6285788029733','6285788029733'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285788029733' // Owner Utama Istilahnya
   global.botname = 'Selly Botz' // Ganti Jadi Nama Botmu
-  global.packname = 'Selly Botz' // Sticker Weem
+  global.packname = 'E L L Z Y  ツ☂' // Sticker Weem
   global.author = 'E L L Z Y  ツ☂' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
+  global.webme = '-' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/F1LkEvvm4CgHsi1g2ImaDv' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.youtube = '-' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/SrowyDlay' // Ganti Sama Link Github Mu
+  global.instagram = '-' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
